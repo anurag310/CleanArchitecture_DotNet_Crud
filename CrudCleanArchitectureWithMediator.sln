@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudCleanArchitectureWithMediator.API", "CrudCleanArchitectureWithMediator.API\CrudCleanArchitectureWithMediator.API.csproj", "{9B07BE3B-35D2-4189-955D-6B46B1883868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudCleanArchitectureWithMediator.Domain", "CrudCleanArchitectureWithMediator.Domain\CrudCleanArchitectureWithMediator.Domain.csproj", "{17F7EA25-0E16-450F-8F59-20FD43B90B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudCleanArchitectureWithMediator.Application", "CrudCleanArchitectureWithMediator.Application\CrudCleanArchitectureWithMediator.Application.csproj", "{1A1E527F-2746-48C0-BADB-F624F8655C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudCleanArchitectureWithMediator.Infrastructure", "CrudCleanArchitectureWithMediator.Infrastructure\CrudCleanArchitectureWithMediator.Infrastructure.csproj", "{76DAEB51-9561-4E42-8766-928382DE1461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B07BE3B-35D2-4189-955D-6B46B1883868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B07BE3B-35D2-4189-955D-6B46B1883868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B07BE3B-35D2-4189-955D-6B46B1883868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B07BE3B-35D2-4189-955D-6B46B1883868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F7EA25-0E16-450F-8F59-20FD43B90B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F7EA25-0E16-450F-8F59-20FD43B90B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F7EA25-0E16-450F-8F59-20FD43B90B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F7EA25-0E16-450F-8F59-20FD43B90B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1E527F-2746-48C0-BADB-F624F8655C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E527F-2746-48C0-BADB-F624F8655C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E527F-2746-48C0-BADB-F624F8655C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E527F-2746-48C0-BADB-F624F8655C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DAEB51-9561-4E42-8766-928382DE1461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DAEB51-9561-4E42-8766-928382DE1461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DAEB51-9561-4E42-8766-928382DE1461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DAEB51-9561-4E42-8766-928382DE1461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0F7AF5-FC2D-47C4-9EA6-72EF37DB6118}
+	EndGlobalSection
+EndGlobal

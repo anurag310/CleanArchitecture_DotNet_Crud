@@ -1,0 +1,12 @@
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\bin\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.deps.json
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\bin\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.dll
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\bin\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.pdb
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.csproj.AssemblyReference.cache
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.AssemblyInfoInputs.cache
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.AssemblyInfo.cs
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.dll
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\refint\CrudCleanArchitectureWithMediator.Domain.dll
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\CrudCleanArchitectureWithMediator.Domain.pdb
+D:\DotNet Projects\CRUD API\CrudCleanArchitectureWithMediator\CrudCleanArchitectureWithMediator.Domain\obj\Debug\net7.0\ref\CrudCleanArchitectureWithMediator.Domain.dll

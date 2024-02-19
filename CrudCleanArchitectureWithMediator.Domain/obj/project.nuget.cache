@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNScfik8dS/Al/8MSKgcE3eAts37/EO0yc1bhpHqKm1O24SN9eRfAjnBa4P942xUmsmH8o5TrbjxHMSCWOhG6Q==",
+  "success": true,
+  "projectFilePath": "D:\\DotNet Projects\\CRUD API\\CrudCleanArchitectureWithMediator\\CrudCleanArchitectureWithMediator.Domain\\CrudCleanArchitectureWithMediator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anurag\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Anurag\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Anurag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
